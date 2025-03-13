@@ -1,2 +1,2 @@
 # OSIaddon
-Addon de Outsourcing de impressão para SAP Business One
+Addon de outsourcing de impressão para o ERP SAP Business One
